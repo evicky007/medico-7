@@ -1,0 +1,7 @@
+{
+  "name": "MediBot AI",
+  "description": "An AI-powered medical chatbot providing general health information. This application is not a substitute for professional medical advice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
